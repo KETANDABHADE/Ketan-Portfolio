@@ -1,6 +1,6 @@
-# Akash Gaikwad — Portfolio
+# Ketan Dabhade — Portfolio
 
-This is a minimal, responsive static portfolio template for Akash Gaikwad.
+This is a minimal, responsive static portfolio template for Ketan Dabhade.
 
 How to use
 
